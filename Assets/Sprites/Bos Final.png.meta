@@ -1,0 +1,1440 @@
+fileFormatVersion: 2
+guid: 77f92b97e31c0be4da67d882a540589b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6393474645693089622
+    second: "Hoja de sprites del jefe final c\xEDborg_0"
+  - first:
+      213: 3934183369898253699
+    second: "Hoja de sprites del jefe final c\xEDborg_1"
+  - first:
+      213: 6721562576349234795
+    second: "Hoja de sprites del jefe final c\xEDborg_2"
+  - first:
+      213: 5996145736369458136
+    second: "Hoja de sprites del jefe final c\xEDborg_3"
+  - first:
+      213: 3822696830339324159
+    second: "Hoja de sprites del jefe final c\xEDborg_4"
+  - first:
+      213: 5008089327020687976
+    second: "Hoja de sprites del jefe final c\xEDborg_5"
+  - first:
+      213: -2395445833847265517
+    second: "Hoja de sprites del jefe final c\xEDborg_6"
+  - first:
+      213: 5503055845844630163
+    second: "Hoja de sprites del jefe final c\xEDborg_7"
+  - first:
+      213: 1173664587571159206
+    second: "Hoja de sprites del jefe final c\xEDborg_8"
+  - first:
+      213: 4627957108372086295
+    second: "Hoja de sprites del jefe final c\xEDborg_9"
+  - first:
+      213: -4952132179361902138
+    second: "Hoja de sprites del jefe final c\xEDborg_10"
+  - first:
+      213: 6891317526991088806
+    second: "Hoja de sprites del jefe final c\xEDborg_11"
+  - first:
+      213: -2550194338846864005
+    second: "Hoja de sprites del jefe final c\xEDborg_12"
+  - first:
+      213: -6604453384318372725
+    second: "Hoja de sprites del jefe final c\xEDborg_13"
+  - first:
+      213: -6716413378222958233
+    second: "Hoja de sprites del jefe final c\xEDborg_14"
+  - first:
+      213: 8333623732647536228
+    second: "Hoja de sprites del jefe final c\xEDborg_15"
+  - first:
+      213: -5979864571328474010
+    second: "Hoja de sprites del jefe final c\xEDborg_16"
+  - first:
+      213: 7381022824278165172
+    second: "Hoja de sprites del jefe final c\xEDborg_17"
+  - first:
+      213: 6655125813063298945
+    second: "Hoja de sprites del jefe final c\xEDborg_18"
+  - first:
+      213: 6929615785140930189
+    second: "Hoja de sprites del jefe final c\xEDborg_19"
+  - first:
+      213: -4134256616616890208
+    second: "Hoja de sprites del jefe final c\xEDborg_20"
+  - first:
+      213: 5076200601904402278
+    second: "Hoja de sprites del jefe final c\xEDborg_21"
+  - first:
+      213: -2994151731852466690
+    second: "Hoja de sprites del jefe final c\xEDborg_22"
+  - first:
+      213: 8472300274430898133
+    second: "Hoja de sprites del jefe final c\xEDborg_23"
+  - first:
+      213: -7367157344012551256
+    second: "Hoja de sprites del jefe final c\xEDborg_24"
+  - first:
+      213: -8143802489736177324
+    second: "Hoja de sprites del jefe final c\xEDborg_25"
+  - first:
+      213: 8717490585496823981
+    second: "Hoja de sprites del jefe final c\xEDborg_26"
+  - first:
+      213: -7793670761732792613
+    second: "Hoja de sprites del jefe final c\xEDborg_27"
+  - first:
+      213: -3924748092478709028
+    second: "Hoja de sprites del jefe final c\xEDborg_28"
+  - first:
+      213: 2602732275187745531
+    second: "Hoja de sprites del jefe final c\xEDborg_29"
+  - first:
+      213: 59808847031001710
+    second: "Hoja de sprites del jefe final c\xEDborg_30"
+  - first:
+      213: -1993291440329712272
+    second: "Hoja de sprites del jefe final c\xEDborg_31"
+  - first:
+      213: -8013110930647201865
+    second: "Hoja de sprites del jefe final c\xEDborg_32"
+  - first:
+      213: -8122305121289709243
+    second: "Hoja de sprites del jefe final c\xEDborg_33"
+  - first:
+      213: -5083281310669130546
+    second: "Hoja de sprites del jefe final c\xEDborg_34"
+  - first:
+      213: -5509759886301680553
+    second: "Hoja de sprites del jefe final c\xEDborg_35"
+  - first:
+      213: -9141863128826788627
+    second: "Hoja de sprites del jefe final c\xEDborg_36"
+  - first:
+      213: -5456711359271927507
+    second: "Hoja de sprites del jefe final c\xEDborg_37"
+  - first:
+      213: -8104478881867463539
+    second: "Hoja de sprites del jefe final c\xEDborg_38"
+  - first:
+      213: -1949612749039911523
+    second: "Hoja de sprites del jefe final c\xEDborg_39"
+  - first:
+      213: -3407794063197587529
+    second: "Hoja de sprites del jefe final c\xEDborg_40"
+  - first:
+      213: -5476997157579887132
+    second: "Hoja de sprites del jefe final c\xEDborg_41"
+  - first:
+      213: 6892227894649583722
+    second: "Hoja de sprites del jefe final c\xEDborg_42"
+  - first:
+      213: 6397864524741708724
+    second: "Hoja de sprites del jefe final c\xEDborg_43"
+  - first:
+      213: -7549699886868891015
+    second: "Hoja de sprites del jefe final c\xEDborg_44"
+  - first:
+      213: 8628325428849152421
+    second: "Hoja de sprites del jefe final c\xEDborg_45"
+  - first:
+      213: 2160050261891474851
+    second: "Hoja de sprites del jefe final c\xEDborg_46"
+  - first:
+      213: -8574749996758813724
+    second: "Hoja de sprites del jefe final c\xEDborg_47"
+  - first:
+      213: 2092135243597502808
+    second: "Hoja de sprites del jefe final c\xEDborg_48"
+  - first:
+      213: -3237721282670494938
+    second: "Hoja de sprites del jefe final c\xEDborg_49"
+  - first:
+      213: 7543627388026698618
+    second: "Hoja de sprites del jefe final c\xEDborg_50"
+  - first:
+      213: 2877966582556072998
+    second: "Hoja de sprites del jefe final c\xEDborg_51"
+  - first:
+      213: -93499422751099427
+    second: "Hoja de sprites del jefe final c\xEDborg_52"
+  - first:
+      213: 849110699693390691
+    second: "Hoja de sprites del jefe final c\xEDborg_53"
+  - first:
+      213: -1110912164356955632
+    second: "Hoja de sprites del jefe final c\xEDborg_54"
+  - first:
+      213: 8427658054937872352
+    second: "Hoja de sprites del jefe final c\xEDborg_55"
+  - first:
+      213: -5399662532403939854
+    second: "Hoja de sprites del jefe final c\xEDborg_56"
+  - first:
+      213: -1819108532993518513
+    second: "Hoja de sprites del jefe final c\xEDborg_57"
+  - first:
+      213: -3050614317371850737
+    second: "Hoja de sprites del jefe final c\xEDborg_58"
+  - first:
+      213: -6202686036710060952
+    second: "Hoja de sprites del jefe final c\xEDborg_59"
+  - first:
+      213: 668637067609614523
+    second: "Hoja de sprites del jefe final c\xEDborg_60"
+  - first:
+      213: -7649072177192478580
+    second: "Hoja de sprites del jefe final c\xEDborg_61"
+  - first:
+      213: 3762182533923672915
+    second: "Hoja de sprites del jefe final c\xEDborg_62"
+  - first:
+      213: 5563496156816596526
+    second: "Hoja de sprites del jefe final c\xEDborg_63"
+  - first:
+      213: 7980945387256310372
+    second: "Hoja de sprites del jefe final c\xEDborg_64"
+  - first:
+      213: -5787286096484295878
+    second: "Hoja de sprites del jefe final c\xEDborg_65"
+  - first:
+      213: 3894156710251006180
+    second: "Hoja de sprites del jefe final c\xEDborg_66"
+  - first:
+      213: -6950212323727203095
+    second: "Hoja de sprites del jefe final c\xEDborg_67"
+  - first:
+      213: 6939676458596377393
+    second: "Hoja de sprites del jefe final c\xEDborg_68"
+  - first:
+      213: 1502833752994733458
+    second: "Hoja de sprites del jefe final c\xEDborg_69"
+  - first:
+      213: 8326120187923727774
+    second: "Hoja de sprites del jefe final c\xEDborg_70"
+  - first:
+      213: -3770563763468734365
+    second: "Hoja de sprites del jefe final c\xEDborg_71"
+  - first:
+      213: -4725373566062115510
+    second: "Hoja de sprites del jefe final c\xEDborg_72"
+  - first:
+      213: 8267659267857865153
+    second: "Hoja de sprites del jefe final c\xEDborg_73"
+  - first:
+      213: 558908601742979147
+    second: "Hoja de sprites del jefe final c\xEDborg_74"
+  - first:
+      213: -2451800061517396643
+    second: "Hoja de sprites del jefe final c\xEDborg_75"
+  - first:
+      213: -8858392138206401639
+    second: "Hoja de sprites del jefe final c\xEDborg_76"
+  - first:
+      213: 661269744070071927
+    second: "Hoja de sprites del jefe final c\xEDborg_77"
+  - first:
+      213: 2650792554699267729
+    second: "Hoja de sprites del jefe final c\xEDborg_78"
+  - first:
+      213: -7994680932503732027
+    second: "Hoja de sprites del jefe final c\xEDborg_79"
+  - first:
+      213: -8919170190198604476
+    second: "Hoja de sprites del jefe final c\xEDborg_80"
+  - first:
+      213: -1661280844287640995
+    second: "Hoja de sprites del jefe final c\xEDborg_81"
+  - first:
+      213: -5209460924785751074
+    second: "Hoja de sprites del jefe final c\xEDborg_82"
+  - first:
+      213: 1228695964046514445
+    second: "Hoja de sprites del jefe final c\xEDborg_83"
+  - first:
+      213: -8876954454870187093
+    second: "Hoja de sprites del jefe final c\xEDborg_84"
+  - first:
+      213: -8947835209710076172
+    second: "Hoja de sprites del jefe final c\xEDborg_85"
+  - first:
+      213: -4408102191987783116
+    second: "Hoja de sprites del jefe final c\xEDborg_86"
+  - first:
+      213: -5513333084000554790
+    second: "Hoja de sprites del jefe final c\xEDborg_87"
+  - first:
+      213: 5129883045702525863
+    second: "Hoja de sprites del jefe final c\xEDborg_88"
+  - first:
+      213: -6185779364149961788
+    second: "Hoja de sprites del jefe final c\xEDborg_89"
+  - first:
+      213: 8293919973459825792
+    second: "Hoja de sprites del jefe final c\xEDborg_90"
+  - first:
+      213: -1335054897757424221
+    second: "Hoja de sprites del jefe final c\xEDborg_91"
+  - first:
+      213: -5111871567992984452
+    second: "Hoja de sprites del jefe final c\xEDborg_92"
+  - first:
+      213: -1697987887144644219
+    second: "Hoja de sprites del jefe final c\xEDborg_93"
+  - first:
+      213: 2271786615523946857
+    second: "Hoja de sprites del jefe final c\xEDborg_94"
+  - first:
+      213: -2689758050846967685
+    second: "Hoja de sprites del jefe final c\xEDborg_95"
+  - first:
+      213: -1012551353594337328
+    second: "Hoja de sprites del jefe final c\xEDborg_96"
+  - first:
+      213: 806573157726255526
+    second: "Hoja de sprites del jefe final c\xEDborg_97"
+  - first:
+      213: 4775923003895463941
+    second: "Hoja de sprites del jefe final c\xEDborg_98"
+  - first:
+      213: 3774812251472087721
+    second: "Hoja de sprites del jefe final c\xEDborg_99"
+  - first:
+      213: 1283722136172927573
+    second: "Hoja de sprites del jefe final c\xEDborg_100"
+  - first:
+      213: -8575905252477353451
+    second: "Hoja de sprites del jefe final c\xEDborg_101"
+  - first:
+      213: -1707529964240979460
+    second: "Hoja de sprites del jefe final c\xEDborg_102"
+  - first:
+      213: 6865949897020222316
+    second: "Hoja de sprites del jefe final c\xEDborg_103"
+  - first:
+      213: -2962208948952318704
+    second: "Hoja de sprites del jefe final c\xEDborg_104"
+  - first:
+      213: -23228431640541842
+    second: "Hoja de sprites del jefe final c\xEDborg_105"
+  - first:
+      213: -1095201392937122633
+    second: "Hoja de sprites del jefe final c\xEDborg_106"
+  - first:
+      213: -7878914379073948564
+    second: "Hoja de sprites del jefe final c\xEDborg_107"
+  - first:
+      213: 7086282723970101550
+    second: "Hoja de sprites del jefe final c\xEDborg_108"
+  - first:
+      213: 735492756350153698
+    second: "Hoja de sprites del jefe final c\xEDborg_109"
+  - first:
+      213: -2055112892547787278
+    second: "Hoja de sprites del jefe final c\xEDborg_110"
+  - first:
+      213: -6405436761074562477
+    second: "Hoja de sprites del jefe final c\xEDborg_111"
+  - first:
+      213: -3595735908275788522
+    second: "Hoja de sprites del jefe final c\xEDborg_112"
+  - first:
+      213: -320390175470577780
+    second: "Hoja de sprites del jefe final c\xEDborg_113"
+  - first:
+      213: -1518896808498860017
+    second: "Hoja de sprites del jefe final c\xEDborg_114"
+  - first:
+      213: -8295790260976267143
+    second: "Hoja de sprites del jefe final c\xEDborg_115"
+  - first:
+      213: -8503058656260903856
+    second: "Hoja de sprites del jefe final c\xEDborg_116"
+  - first:
+      213: 5699195566156786428
+    second: "Hoja de sprites del jefe final c\xEDborg_117"
+  - first:
+      213: 6852751001424904760
+    second: "Hoja de sprites del jefe final c\xEDborg_118"
+  - first:
+      213: -5436041211992030241
+    second: "Hoja de sprites del jefe final c\xEDborg_119"
+  - first:
+      213: -6800961305670297267
+    second: "Hoja de sprites del jefe final c\xEDborg_120"
+  - first:
+      213: -8204017505332199934
+    second: "Hoja de sprites del jefe final c\xEDborg_121"
+  - first:
+      213: -3471333110390958844
+    second: "Hoja de sprites del jefe final c\xEDborg_122"
+  - first:
+      213: 5830550814268670546
+    second: "Hoja de sprites del jefe final c\xEDborg_123"
+  - first:
+      213: 786938342592225967
+    second: "Hoja de sprites del jefe final c\xEDborg_124"
+  - first:
+      213: -6628873319584411607
+    second: "Hoja de sprites del jefe final c\xEDborg_125"
+  - first:
+      213: 4020672769198506537
+    second: "Hoja de sprites del jefe final c\xEDborg_126"
+  - first:
+      213: -4210487824273317568
+    second: "Hoja de sprites del jefe final c\xEDborg_127"
+  - first:
+      213: -1347788960968025593
+    second: "Hoja de sprites del jefe final c\xEDborg_128"
+  - first:
+      213: -6286235046758461545
+    second: "Hoja de sprites del jefe final c\xEDborg_129"
+  - first:
+      213: -5827687439077511211
+    second: "Hoja de sprites del jefe final c\xEDborg_130"
+  - first:
+      213: 3334584421843676447
+    second: "Hoja de sprites del jefe final c\xEDborg_131"
+  - first:
+      213: -1704161033792864083
+    second: "Hoja de sprites del jefe final c\xEDborg_132"
+  - first:
+      213: 8239894646308069187
+    second: "Hoja de sprites del jefe final c\xEDborg_133"
+  - first:
+      213: -3949899826961488031
+    second: "Hoja de sprites del jefe final c\xEDborg_134"
+  - first:
+      213: 6012537038115024210
+    second: "Hoja de sprites del jefe final c\xEDborg_135"
+  - first:
+      213: -5800982420397777287
+    second: "Hoja de sprites del jefe final c\xEDborg_136"
+  - first:
+      213: -8013456035024452052
+    second: "Hoja de sprites del jefe final c\xEDborg_137"
+  - first:
+      213: 2295601171880717225
+    second: "Hoja de sprites del jefe final c\xEDborg_138"
+  - first:
+      213: 7467773902703633802
+    second: "Hoja de sprites del jefe final c\xEDborg_139"
+  - first:
+      213: 7957431628287891731
+    second: "Hoja de sprites del jefe final c\xEDborg_140"
+  - first:
+      213: 6918596045406931119
+    second: "Hoja de sprites del jefe final c\xEDborg_141"
+  - first:
+      213: 8976715598259079837
+    second: "Hoja de sprites del jefe final c\xEDborg_142"
+  - first:
+      213: 4096923338593880237
+    second: "Hoja de sprites del jefe final c\xEDborg_143"
+  - first:
+      213: 822543508207588097
+    second: "Hoja de sprites del jefe final c\xEDborg_144"
+  - first:
+      213: 6371137449016276261
+    second: "Hoja de sprites del jefe final c\xEDborg_145"
+  - first:
+      213: 8046605489089306902
+    second: "Hoja de sprites del jefe final c\xEDborg_146"
+  - first:
+      213: 6047708954163087936
+    second: "Hoja de sprites del jefe final c\xEDborg_147"
+  - first:
+      213: -8194787304613910158
+    second: "Hoja de sprites del jefe final c\xEDborg_148"
+  - first:
+      213: -3071587225274980484
+    second: "Hoja de sprites del jefe final c\xEDborg_149"
+  - first:
+      213: -6579893590813282153
+    second: "Hoja de sprites del jefe final c\xEDborg_150"
+  - first:
+      213: 5456922963150339622
+    second: "Hoja de sprites del jefe final c\xEDborg_151"
+  - first:
+      213: -6577943338084062559
+    second: "Hoja de sprites del jefe final c\xEDborg_152"
+  - first:
+      213: 8922827861654372063
+    second: "Hoja de sprites del jefe final c\xEDborg_153"
+  - first:
+      213: -6522996431718638606
+    second: "Hoja de sprites del jefe final c\xEDborg_154"
+  - first:
+      213: -8853079100487684602
+    second: "Hoja de sprites del jefe final c\xEDborg_155"
+  - first:
+      213: -3300870282564372177
+    second: "Hoja de sprites del jefe final c\xEDborg_156"
+  - first:
+      213: -4944645563762428326
+    second: "Hoja de sprites del jefe final c\xEDborg_157"
+  - first:
+      213: 2622495568678056507
+    second: "Hoja de sprites del jefe final c\xEDborg_158"
+  - first:
+      213: 3821209035311359491
+    second: "Hoja de sprites del jefe final c\xEDborg_159"
+  - first:
+      213: 2198504750005572768
+    second: "Hoja de sprites del jefe final c\xEDborg_160"
+  - first:
+      213: 6714869909343225691
+    second: "Hoja de sprites del jefe final c\xEDborg_161"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_1"
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 778
+        width: 129
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dd8044ee6099630800000000000000
+      internalID: 3934183369898253699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_8"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 779
+        width: 127
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a062ab59b1b94010800000000000000
+      internalID: 1173664587571159206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_11"
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 777
+        width: 127
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac2abe67c0e2af50800000000000000
+      internalID: 6891317526991088806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_13"
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 778
+        width: 151
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84b31c83a44854a0800000000000000
+      internalID: -6604453384318372725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_14"
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 779
+        width: 151
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769d65a1e918ac2a0800000000000000
+      internalID: -6716413378222958233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_53"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 530
+        width: 127
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b353ebea5a8cb00800000000000000
+      internalID: 849110699693390691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_54"
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 528
+        width: 139
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012e7dab54f3590f0800000000000000
+      internalID: -1110912164356955632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_55"
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 531
+        width: 161
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7080d695e05f470800000000000000
+      internalID: 8427658054937872352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_56"
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 531
+        width: 159
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5b311198b8015b0800000000000000
+      internalID: -5399662532403939854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_57"
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 533
+        width: 165
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 9, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f441a036d6a31c6e0800000000000000
+      internalID: -1819108532993518513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_58"
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 532
+        width: 172
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f008452f07a0aa5d0800000000000000
+      internalID: -3050614317371850737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_60"
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 532
+        width: 141
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8a782ded9774900800000000000000
+      internalID: 668637067609614523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_61"
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 533
+        width: 159
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c885e11a16909d590800000000000000
+      internalID: -7649072177192478580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_93"
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 284
+        width: 218
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581d3d153098f68e0800000000000000
+      internalID: -1697987887144644219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_96"
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 285
+        width: 181
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d72b2c98e1b2f1f0800000000000000
+      internalID: -1012551353594337328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_99"
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 285
+        width: 179
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 179, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa49ce2eb3d26430800000000000000
+      internalID: 3774812251472087721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_100"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 285
+        width: 177
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a94ec3b72b0d110800000000000000
+      internalID: 1283722136172927573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_102"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 285
+        width: 159
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9b41e5b82ad48e0800000000000000
+      internalID: -1707529964240979460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_103"
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 285
+        width: 213
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b2581dd01c84f50800000000000000
+      internalID: 6865949897020222316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_130"
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 285
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df67cb8625ef1fa0800000000000000
+      internalID: -5827687439077511211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_131"
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 33
+        width: 153
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d2b814dd2d64e20800000000000000
+      internalID: 3334584421843676447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_132"
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 34
+        width: 137
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0c6bc919a9958e0800000000000000
+      internalID: -1704161033792864083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_141"
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 35
+        width: 153
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa807ee627ac30060800000000000000
+      internalID: 6918596045406931119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_143"
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 21
+        width: 164
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da845ece1123bd830800000000000000
+      internalID: 4096923338593880237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_146"
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 284
+        width: 187
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61160e04f094baf60800000000000000
+      internalID: 8046605489089306902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_149"
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 23
+        width: 139
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c776bdc41b78f55d0800000000000000
+      internalID: -3071587225274980484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_156"
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 29
+        width: 152
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f297b1e77f3f032d0800000000000000
+      internalID: -3300870282564372177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_157"
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 28
+        width: 179
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56babfbe07116bb0800000000000000
+      internalID: -4944645563762428326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_158"
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 21
+        width: 178
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32771c33d9f46420800000000000000
+      internalID: 2622495568678056507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites del jefe final c\xEDborg_160"
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 28
+        width: 153
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a457150c68a28e10800000000000000
+      internalID: 2198504750005572768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 40af0eb4aef01a44a927ef055b67d116
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Hoja de sprites del jefe final c\xEDborg_0": 6393474645693089622
+      "Hoja de sprites del jefe final c\xEDborg_1": 3934183369898253699
+      "Hoja de sprites del jefe final c\xEDborg_10": -4952132179361902138
+      "Hoja de sprites del jefe final c\xEDborg_100": 1283722136172927573
+      "Hoja de sprites del jefe final c\xEDborg_101": -8575905252477353451
+      "Hoja de sprites del jefe final c\xEDborg_102": -1707529964240979460
+      "Hoja de sprites del jefe final c\xEDborg_103": 6865949897020222316
+      "Hoja de sprites del jefe final c\xEDborg_104": -2962208948952318704
+      "Hoja de sprites del jefe final c\xEDborg_105": -23228431640541842
+      "Hoja de sprites del jefe final c\xEDborg_106": -1095201392937122633
+      "Hoja de sprites del jefe final c\xEDborg_107": -7878914379073948564
+      "Hoja de sprites del jefe final c\xEDborg_108": 7086282723970101550
+      "Hoja de sprites del jefe final c\xEDborg_109": 735492756350153698
+      "Hoja de sprites del jefe final c\xEDborg_11": 6891317526991088806
+      "Hoja de sprites del jefe final c\xEDborg_110": -2055112892547787278
+      "Hoja de sprites del jefe final c\xEDborg_111": -6405436761074562477
+      "Hoja de sprites del jefe final c\xEDborg_112": -3595735908275788522
+      "Hoja de sprites del jefe final c\xEDborg_113": -320390175470577780
+      "Hoja de sprites del jefe final c\xEDborg_114": -1518896808498860017
+      "Hoja de sprites del jefe final c\xEDborg_115": -8295790260976267143
+      "Hoja de sprites del jefe final c\xEDborg_116": -8503058656260903856
+      "Hoja de sprites del jefe final c\xEDborg_117": 5699195566156786428
+      "Hoja de sprites del jefe final c\xEDborg_118": 6852751001424904760
+      "Hoja de sprites del jefe final c\xEDborg_119": -5436041211992030241
+      "Hoja de sprites del jefe final c\xEDborg_12": -2550194338846864005
+      "Hoja de sprites del jefe final c\xEDborg_120": -6800961305670297267
+      "Hoja de sprites del jefe final c\xEDborg_121": -8204017505332199934
+      "Hoja de sprites del jefe final c\xEDborg_122": -3471333110390958844
+      "Hoja de sprites del jefe final c\xEDborg_123": 5830550814268670546
+      "Hoja de sprites del jefe final c\xEDborg_124": 786938342592225967
+      "Hoja de sprites del jefe final c\xEDborg_125": -6628873319584411607
+      "Hoja de sprites del jefe final c\xEDborg_126": 4020672769198506537
+      "Hoja de sprites del jefe final c\xEDborg_127": -4210487824273317568
+      "Hoja de sprites del jefe final c\xEDborg_128": -1347788960968025593
+      "Hoja de sprites del jefe final c\xEDborg_129": -6286235046758461545
+      "Hoja de sprites del jefe final c\xEDborg_13": -6604453384318372725
+      "Hoja de sprites del jefe final c\xEDborg_130": -5827687439077511211
+      "Hoja de sprites del jefe final c\xEDborg_131": 3334584421843676447
+      "Hoja de sprites del jefe final c\xEDborg_132": -1704161033792864083
+      "Hoja de sprites del jefe final c\xEDborg_133": 8239894646308069187
+      "Hoja de sprites del jefe final c\xEDborg_134": -3949899826961488031
+      "Hoja de sprites del jefe final c\xEDborg_135": 6012537038115024210
+      "Hoja de sprites del jefe final c\xEDborg_136": -5800982420397777287
+      "Hoja de sprites del jefe final c\xEDborg_137": -8013456035024452052
+      "Hoja de sprites del jefe final c\xEDborg_138": 2295601171880717225
+      "Hoja de sprites del jefe final c\xEDborg_139": 7467773902703633802
+      "Hoja de sprites del jefe final c\xEDborg_14": -6716413378222958233
+      "Hoja de sprites del jefe final c\xEDborg_140": 7957431628287891731
+      "Hoja de sprites del jefe final c\xEDborg_141": 6918596045406931119
+      "Hoja de sprites del jefe final c\xEDborg_142": 8976715598259079837
+      "Hoja de sprites del jefe final c\xEDborg_143": 4096923338593880237
+      "Hoja de sprites del jefe final c\xEDborg_144": 822543508207588097
+      "Hoja de sprites del jefe final c\xEDborg_145": 6371137449016276261
+      "Hoja de sprites del jefe final c\xEDborg_146": 8046605489089306902
+      "Hoja de sprites del jefe final c\xEDborg_147": 6047708954163087936
+      "Hoja de sprites del jefe final c\xEDborg_148": -8194787304613910158
+      "Hoja de sprites del jefe final c\xEDborg_149": -3071587225274980484
+      "Hoja de sprites del jefe final c\xEDborg_15": 8333623732647536228
+      "Hoja de sprites del jefe final c\xEDborg_150": -6579893590813282153
+      "Hoja de sprites del jefe final c\xEDborg_151": 5456922963150339622
+      "Hoja de sprites del jefe final c\xEDborg_152": -6577943338084062559
+      "Hoja de sprites del jefe final c\xEDborg_153": 8922827861654372063
+      "Hoja de sprites del jefe final c\xEDborg_154": -6522996431718638606
+      "Hoja de sprites del jefe final c\xEDborg_155": -8853079100487684602
+      "Hoja de sprites del jefe final c\xEDborg_156": -3300870282564372177
+      "Hoja de sprites del jefe final c\xEDborg_157": -4944645563762428326
+      "Hoja de sprites del jefe final c\xEDborg_158": 2622495568678056507
+      "Hoja de sprites del jefe final c\xEDborg_159": 3821209035311359491
+      "Hoja de sprites del jefe final c\xEDborg_16": -5979864571328474010
+      "Hoja de sprites del jefe final c\xEDborg_160": 2198504750005572768
+      "Hoja de sprites del jefe final c\xEDborg_161": 6714869909343225691
+      "Hoja de sprites del jefe final c\xEDborg_17": 7381022824278165172
+      "Hoja de sprites del jefe final c\xEDborg_18": 6655125813063298945
+      "Hoja de sprites del jefe final c\xEDborg_19": 6929615785140930189
+      "Hoja de sprites del jefe final c\xEDborg_2": 6721562576349234795
+      "Hoja de sprites del jefe final c\xEDborg_20": -4134256616616890208
+      "Hoja de sprites del jefe final c\xEDborg_21": 5076200601904402278
+      "Hoja de sprites del jefe final c\xEDborg_22": -2994151731852466690
+      "Hoja de sprites del jefe final c\xEDborg_23": 8472300274430898133
+      "Hoja de sprites del jefe final c\xEDborg_24": -7367157344012551256
+      "Hoja de sprites del jefe final c\xEDborg_25": -8143802489736177324
+      "Hoja de sprites del jefe final c\xEDborg_26": 8717490585496823981
+      "Hoja de sprites del jefe final c\xEDborg_27": -7793670761732792613
+      "Hoja de sprites del jefe final c\xEDborg_28": -3924748092478709028
+      "Hoja de sprites del jefe final c\xEDborg_29": 2602732275187745531
+      "Hoja de sprites del jefe final c\xEDborg_3": 5996145736369458136
+      "Hoja de sprites del jefe final c\xEDborg_30": 59808847031001710
+      "Hoja de sprites del jefe final c\xEDborg_31": -1993291440329712272
+      "Hoja de sprites del jefe final c\xEDborg_32": -8013110930647201865
+      "Hoja de sprites del jefe final c\xEDborg_33": -8122305121289709243
+      "Hoja de sprites del jefe final c\xEDborg_34": -5083281310669130546
+      "Hoja de sprites del jefe final c\xEDborg_35": -5509759886301680553
+      "Hoja de sprites del jefe final c\xEDborg_36": -9141863128826788627
+      "Hoja de sprites del jefe final c\xEDborg_37": -5456711359271927507
+      "Hoja de sprites del jefe final c\xEDborg_38": -8104478881867463539
+      "Hoja de sprites del jefe final c\xEDborg_39": -1949612749039911523
+      "Hoja de sprites del jefe final c\xEDborg_4": 3822696830339324159
+      "Hoja de sprites del jefe final c\xEDborg_40": -3407794063197587529
+      "Hoja de sprites del jefe final c\xEDborg_41": -5476997157579887132
+      "Hoja de sprites del jefe final c\xEDborg_42": 6892227894649583722
+      "Hoja de sprites del jefe final c\xEDborg_43": 6397864524741708724
+      "Hoja de sprites del jefe final c\xEDborg_44": -7549699886868891015
+      "Hoja de sprites del jefe final c\xEDborg_45": 8628325428849152421
+      "Hoja de sprites del jefe final c\xEDborg_46": 2160050261891474851
+      "Hoja de sprites del jefe final c\xEDborg_47": -8574749996758813724
+      "Hoja de sprites del jefe final c\xEDborg_48": 2092135243597502808
+      "Hoja de sprites del jefe final c\xEDborg_49": -3237721282670494938
+      "Hoja de sprites del jefe final c\xEDborg_5": 5008089327020687976
+      "Hoja de sprites del jefe final c\xEDborg_50": 7543627388026698618
+      "Hoja de sprites del jefe final c\xEDborg_51": 2877966582556072998
+      "Hoja de sprites del jefe final c\xEDborg_52": -93499422751099427
+      "Hoja de sprites del jefe final c\xEDborg_53": 849110699693390691
+      "Hoja de sprites del jefe final c\xEDborg_54": -1110912164356955632
+      "Hoja de sprites del jefe final c\xEDborg_55": 8427658054937872352
+      "Hoja de sprites del jefe final c\xEDborg_56": -5399662532403939854
+      "Hoja de sprites del jefe final c\xEDborg_57": -1819108532993518513
+      "Hoja de sprites del jefe final c\xEDborg_58": -3050614317371850737
+      "Hoja de sprites del jefe final c\xEDborg_59": -6202686036710060952
+      "Hoja de sprites del jefe final c\xEDborg_6": -2395445833847265517
+      "Hoja de sprites del jefe final c\xEDborg_60": 668637067609614523
+      "Hoja de sprites del jefe final c\xEDborg_61": -7649072177192478580
+      "Hoja de sprites del jefe final c\xEDborg_62": 3762182533923672915
+      "Hoja de sprites del jefe final c\xEDborg_63": 5563496156816596526
+      "Hoja de sprites del jefe final c\xEDborg_64": 7980945387256310372
+      "Hoja de sprites del jefe final c\xEDborg_65": -5787286096484295878
+      "Hoja de sprites del jefe final c\xEDborg_66": 3894156710251006180
+      "Hoja de sprites del jefe final c\xEDborg_67": -6950212323727203095
+      "Hoja de sprites del jefe final c\xEDborg_68": 6939676458596377393
+      "Hoja de sprites del jefe final c\xEDborg_69": 1502833752994733458
+      "Hoja de sprites del jefe final c\xEDborg_7": 5503055845844630163
+      "Hoja de sprites del jefe final c\xEDborg_70": 8326120187923727774
+      "Hoja de sprites del jefe final c\xEDborg_71": -3770563763468734365
+      "Hoja de sprites del jefe final c\xEDborg_72": -4725373566062115510
+      "Hoja de sprites del jefe final c\xEDborg_73": 8267659267857865153
+      "Hoja de sprites del jefe final c\xEDborg_74": 558908601742979147
+      "Hoja de sprites del jefe final c\xEDborg_75": -2451800061517396643
+      "Hoja de sprites del jefe final c\xEDborg_76": -8858392138206401639
+      "Hoja de sprites del jefe final c\xEDborg_77": 661269744070071927
+      "Hoja de sprites del jefe final c\xEDborg_78": 2650792554699267729
+      "Hoja de sprites del jefe final c\xEDborg_79": -7994680932503732027
+      "Hoja de sprites del jefe final c\xEDborg_8": 1173664587571159206
+      "Hoja de sprites del jefe final c\xEDborg_80": -8919170190198604476
+      "Hoja de sprites del jefe final c\xEDborg_81": -1661280844287640995
+      "Hoja de sprites del jefe final c\xEDborg_82": -5209460924785751074
+      "Hoja de sprites del jefe final c\xEDborg_83": 1228695964046514445
+      "Hoja de sprites del jefe final c\xEDborg_84": -8876954454870187093
+      "Hoja de sprites del jefe final c\xEDborg_85": -8947835209710076172
+      "Hoja de sprites del jefe final c\xEDborg_86": -4408102191987783116
+      "Hoja de sprites del jefe final c\xEDborg_87": -5513333084000554790
+      "Hoja de sprites del jefe final c\xEDborg_88": 5129883045702525863
+      "Hoja de sprites del jefe final c\xEDborg_89": -6185779364149961788
+      "Hoja de sprites del jefe final c\xEDborg_9": 4627957108372086295
+      "Hoja de sprites del jefe final c\xEDborg_90": 8293919973459825792
+      "Hoja de sprites del jefe final c\xEDborg_91": -1335054897757424221
+      "Hoja de sprites del jefe final c\xEDborg_92": -5111871567992984452
+      "Hoja de sprites del jefe final c\xEDborg_93": -1697987887144644219
+      "Hoja de sprites del jefe final c\xEDborg_94": 2271786615523946857
+      "Hoja de sprites del jefe final c\xEDborg_95": -2689758050846967685
+      "Hoja de sprites del jefe final c\xEDborg_96": -1012551353594337328
+      "Hoja de sprites del jefe final c\xEDborg_97": 806573157726255526
+      "Hoja de sprites del jefe final c\xEDborg_98": 4775923003895463941
+      "Hoja de sprites del jefe final c\xEDborg_99": 3774812251472087721
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
